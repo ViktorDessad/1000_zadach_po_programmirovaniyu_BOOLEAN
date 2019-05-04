@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013_BOOLEAN", "013_BOOLEAN\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014_BOOLEAN", "014_BOOLEAN\014_BOOLEAN.csproj", "{285AB8B3-EE8A-4C84-B415-76F547F4D9C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015_BOOLEAN", "015_BOOLEAN\015_BOOLEAN.csproj", "{2C9AA413-AA4E-44A1-B090-C4771EB3A37C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{285AB8B3-EE8A-4C84-B415-76F547F4D9C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{285AB8B3-EE8A-4C84-B415-76F547F4D9C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{285AB8B3-EE8A-4C84-B415-76F547F4D9C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C9AA413-AA4E-44A1-B090-C4771EB3A37C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9AA413-AA4E-44A1-B090-C4771EB3A37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9AA413-AA4E-44A1-B090-C4771EB3A37C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9AA413-AA4E-44A1-B090-C4771EB3A37C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
