@@ -10,6 +10,7 @@ namespace _001_BOOLEAN
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("Введите число А");
             int number_A = Convert.ToInt32(Console.ReadLine());
             bool value = number_A > 0;
