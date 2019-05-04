@@ -10,7 +10,7 @@ namespace _1000_zadach_po_programmirovaniyu_BOOLEAN
     {
         static void Main(string[] args)
         {
-             
+            Console.WriteLine("Hello BOOLEAN");
         }
     }
 }
